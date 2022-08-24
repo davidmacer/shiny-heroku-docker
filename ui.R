@@ -13,7 +13,7 @@ library(shiny)
 shinyUI(fluidPage(
 
     # Application title
-    titlePanel("Hola, Donají!! Hay que subir las apps a Heroku!"),
+    titlePanel("Estoy tratando de hacer el deploy desde GitHub de manera automática"),
 
     # Sidebar with a slider input for number of bins
     sidebarLayout(
